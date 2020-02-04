@@ -1,0 +1,19 @@
+.idea/
+system/
+config/workspace/
+config/tasks/
+config/eval/
+config/disabled_plugins.txt
+config/idea64.vmoptions
+config/port
+config/port.lock
+config/options/other.xml
+config/options/recentProjects.xml
+config/options/usage.statistics.xml
+config/options/window.state.xml
+config/options/KeyPromoterXStatistic.xml
+config/options/jdk.table.xml
+config/plugins/availables.xml
+config/plugins/availables.xml.etag
+stale_outputs_checked
+config/IntelliJ IDEA Global Settings
