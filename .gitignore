@@ -17,3 +17,4 @@ config/plugins/availables.xml
 config/plugins/availables.xml.etag
 stale_outputs_checked
 config/IntelliJ IDEA Global Settings
+config/options/runner.layout.xml
