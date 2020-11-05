@@ -3,6 +3,7 @@ system/
 config/workspace/
 config/tasks/
 config/eval/
+
 config/disabled_plugins.txt
 config/idea64.vmoptions
 config/port
@@ -16,5 +17,19 @@ config/options/jdk.table.xml
 config/plugins/availables.xml
 config/plugins/availables.xml.etag
 stale_outputs_checked
+
 config/IntelliJ IDEA Global Settings
 config/options/runner.layout.xml
+!/config/colors/_@user_Eclipse Dark Theme.icls
+
+/config/colors/
+/config/jdbc-drivers/
+/config/options/actionSummary.xml
+/config/options/databaseDrivers.xml
+/config/options/updates.xml
+/config/options/textmate_os.xml
+/config/options/project.default.xml
+/config/options/profilerRunConfigurations.xml
+/config/options/path.macros.xml
+/config/options/lightEdit.xml
+/config/plugins/meta/
