@@ -884,6 +884,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.ann">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="ai.expert.studio" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.ap">
       <plugins>
         <option name="myPlugins">
@@ -1542,6 +1556,20 @@
           <set>
             <plugin>
               <option name="myPluginId" value="net.sjrx.intellij.plugins.systemdunitfiles" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.av">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="AviatorScript" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
@@ -2602,12 +2630,40 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.cj">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.phodal.charj" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.cjsx">
       <plugins>
         <option name="myPlugins">
           <set>
             <plugin>
               <option name="myPluginId" value="org.coffeescript" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.cl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="ai.expert.studio" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
@@ -2836,6 +2892,20 @@
             </plugin>
             <plugin>
               <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.cmr">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.codemr.analyzer" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
@@ -3396,6 +3466,12 @@
       <plugins>
         <option name="myPlugins">
           <set>
+            <plugin>
+              <option name="myPluginId" value="ai.expert.studio" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
             <plugin>
               <option name="myPluginId" value="net.kenro.ji.jin.intellij.crystal" />
               <option name="myPluginName" />
@@ -4422,6 +4498,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.ecl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="tech.kinori.epsilon.grammars" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.edn">
       <plugins>
         <option name="myPlugins">
@@ -4434,6 +4524,48 @@
             </plugin>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.idea.clojure" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.efe">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="ai.expert.studio" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.efo">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="ai.expert.studio" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.egl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="tech.kinori.epsilon.grammars" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
@@ -4594,6 +4726,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.eol">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="tech.kinori.epsilon.grammars" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.ep">
       <plugins>
         <option name="myPlugins">
@@ -4746,6 +4892,34 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.etl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="tech.kinori.epsilon.grammars" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.evl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="tech.kinori.epsilon.grammars" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.evt">
       <plugins>
         <option name="myPlugins">
@@ -4772,6 +4946,20 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.centurylink.mdw.studio" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.ewl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="tech.kinori.epsilon.grammars" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
@@ -6822,6 +7010,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.ijava">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="edu.rit.cs.plcc.jetbrainsPlugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.ijperf">
       <plugins>
         <option name="myPlugins">
@@ -7246,6 +7448,12 @@
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
             </plugin>
+            <plugin>
+              <option name="myPluginId" value="j2s" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
           </set>
         </option>
       </plugins>
@@ -7568,6 +7776,20 @@
             </plugin>
             <plugin>
               <option name="myPluginId" value="com.intellij.tasks" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.jr">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="ai.expert.studio" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
@@ -8514,6 +8736,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.lay">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="ai.expert.studio" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.layout">
       <plugins>
         <option name="myPlugins">
@@ -9086,6 +9322,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.lsig">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.bloxbean.algodea" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.lson">
       <plugins>
         <option name="myPlugins">
@@ -9450,6 +9700,20 @@
             </plugin>
             <plugin>
               <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.mdl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.codemr.analyzer" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
@@ -10607,6 +10871,12 @@
         <option name="myPlugins">
           <set>
             <plugin>
+              <option name="myPluginId" value="dev.johanness.nixos-idea-publication-testing" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+            <plugin>
               <option name="myPluginId" value="nix-idea" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
@@ -10896,6 +11166,20 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.omt">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.misset.OMT" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
@@ -11750,6 +12034,20 @@
             </plugin>
             <plugin>
               <option name="myPluginId" value="com.intellij.play" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.plcc">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="edu.rit.cs.plcc.jetbrainsPlugin" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
@@ -15966,6 +16264,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.teal">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.bloxbean.algodea" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.template">
       <plugins>
         <option name="myPlugins">
@@ -16102,6 +16414,12 @@
           <set>
             <plugin>
               <option name="myPluginId" value="edu.umontreal.hatchery" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+            <plugin>
+              <option name="myPluginId" value="pholanda.github.io" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
@@ -16480,6 +16798,20 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.github.czy211.wowtoc" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.tok">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.bloxbean.algodea" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
